@@ -1,2 +1,2 @@
 # pytools
-Some little tools writen in Python.
+Some little tools written in Python.
